@@ -1,1 +1,1 @@
-Не получилось реализовать разбивку по разделам, смог только показать количество новостей в каждом разделе, с помощью компонента bitrix:catalog.section.list
+Задание https://github.com/jasher5920/tasks-for-trainees/tree/task_3
